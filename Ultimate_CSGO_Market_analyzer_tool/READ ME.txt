@@ -1,3 +1,2 @@
-Ultimate CSGO Market Analyzer Tool, by: Nicholas Odeh, aka Altoids.exe
-
+Ultimate CSGO Market Analyzer Tool, by: Nicholas Odeh
 This tool displays a comprehensive understanding of python, pandas, api intergration, data wrangling, data visualization, data analysis and excel concepts and is not for commercial use .  
